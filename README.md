@@ -1,6 +1,8 @@
 # es-indexer - Elastic Search Data Rich Indexer
 Data-rich ElasticSearch indexer, for those who would love to work with Magento on the backend but would prefer to use NoSQL power on the frontend.
 
+The project is in the **ANALYSIS PHASE**. Please take a look at the [**Projects's WIKI**](https://github.com/magento-engcom/es-indexer/wiki), where the documentation and specs are stored.
+
 ## Motivation
 Progressive Web Apps, Headless eCommerce, Single Page Applications, graphQL, Microservices, Reactive web - these technology trends are changing the way eCommerce developers design and develop their sites. Our goal is to create the scalable and easy to use NoSQL data store for Magento2. We plan to use ElasticSearch to index (in almost real time) all Magento entities to create the go-to data store for multiple use-cases and scenarios:
 - graphQL endpoints for Magento API,
