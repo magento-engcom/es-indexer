@@ -32,4 +32,4 @@ The underlying architecture is simple: we're creating the Magento2 native indexe
 ![es-indexer architecture proposal](es-indexer-architecture.png)
 
 ## Contributing
-Right now we're in the specification phase - collecting all the Business Requirements, building some PoC of the indexer, discussing data structures with Magento team and code structure of the indexer itself. Would be great to have you onboard! Don't hesitate to join our Slack channel: #feature-es-indexer (https://magentocommeng.slack.com/messages/C8A4ZRCNS]https://magentocommeng.slack.com/messages/C8A4ZRCNS)
+Right now we're in the specification phase - collecting all the Business Requirements, building some PoC of the indexer, discussing data structures with Magento team and code structure of the indexer itself. Would be great to have you onboard! Don't hesitate to join our Slack channel: #feature-es-indexer https://magentocommeng.slack.com/messages/C8A4ZRCNS
